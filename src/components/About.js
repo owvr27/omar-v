@@ -19,11 +19,14 @@ class About extends React.Component {
   render() {
     const one = (
     <p>
-  I previously interned at<strong><a href="https://vodafone.com" target="_blank"> Vodafone</a></strong>
-  , where I collaborated with the AI & Data team on developing and tuning classification models using Decision Tree and Random Forest algorithms. I also explored penetration testing basics during the final phase of the internship. 
-  Additionally, I completed a Frontend & Security internship at <b>Al Dahra Agriculture</b>, contributing to a web dashboard project focused on agricultural data analysis and security implementation.
-  Currently, I’m pursuing a <b>Bachelor’s degree in Computer Engineering</b> at 
-  <a href="https://sut.edu.eg/" target="_blank"> Polytechnic of Egypt University</a>, with a strong interest in cybersecurity and software engineering.
+I am currently a Top Achiever Bachelor’s student in Computer Engineering (Cybersecurity track) at
+<a href="https://sut.edu.eg/" target="_blank">Polytechnic of Egypt University</a>.
+Alongside my studies, I work as an Offensive Security Engineer at DeepStrike, where I focus on penetration testing, vulnerability analysis, and real-world attack simulations.
+
+Previously, I interned at
+<strong><a href="https://vodafone.com" target="_blank">Vodafone</a></strong>, collaborating with the AI & Data team on developing and tuning classification models using Decision Tree and Random Forest algorithms, while also gaining hands-on exposure to penetration testing fundamentals during the final phase of the internship.
+
+Additionally, I completed a Frontend & Security internship at Al Dahra Agriculture, contributing to a secure web dashboard for agricultural data analysis, with an emphasis on security implementation and system hardening.
 </p>
 
 
@@ -40,7 +43,8 @@ class About extends React.Component {
       "Python",
       "HTML CSS",
       "Java",
-      "Javascript "
+      "Javascript ",
+      "PHP"
     ];
 
     return (
