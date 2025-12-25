@@ -82,6 +82,20 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "DeepStrike" : {
+      jobTitle:"Offensive Security @",
+      duration: "Nov 2025 - Present",
+      desc:["Conduct penetration testing and security assessments on web and networked systems, identifying and validating vulnerabilities and providing actionable remediation recommendations to strengthen system security."
+        
+      ]
+    },
+    "HackViser" : {
+      jobTitle : " Ambassador @",
+      duration : "Oct 2025 - Presesnt",
+      desc: [
+        "romote ethical hacking and cybersecurity awareness by engaging with the community, sharing educational content, and encouraging hands-on learning in offensive security."
+      ]
+    }
  "Vodafone Egypt": {
   jobTitle: "AI & Cybersecurity Intern @",
   duration: "Jul 2025 - Aug 2025",
