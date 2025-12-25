@@ -19,9 +19,9 @@ class About extends React.Component {
   render() {
     const one = (
     <p>
-I am currently a Top Achiever Bachelor’s student in Computer Engineering (Cybersecurity track) at
+I am currently a Top Achiever Bachelor’s student in Computer Engineering  at
 <a href="https://sut.edu.eg/" target="_blank">Polytechnic of Egypt University</a>.
-Alongside my studies, I work as an Offensive Security Engineer at DeepStrike, where I focus on penetration testing, vulnerability analysis, and real-world attack simulations.
+Alongside my studies, I work as an Offensive Security Engineer at <a href= "https://deepstrike.io/" target="_blank">DeepStrike</a>, where I focus on penetration testing, vulnerability analysis, and real-world attack simulations.
 
 Previously, I interned at
 <strong><a href="https://vodafone.com" target="_blank">Vodafone</a></strong>, collaborating with the AI & Data team on developing and tuning classification models using Decision Tree and Random Forest algorithms, while also gaining hands-on exposure to penetration testing fundamentals during the final phase of the internship.
