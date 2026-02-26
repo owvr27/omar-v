@@ -26,7 +26,7 @@ Alongside my studies, I work as an Offensive Security Engineer at <a href= "http
 Previously, I interned at
 <strong><a href="https://vodafone.com" target="_blank">Vodafone</a></strong>, collaborating with the AI & Data team on developing and tuning classification models using Decision Tree and Random Forest algorithms, while also gaining hands-on exposure to penetration testing fundamentals during the final phase of the internship.
 
-Additionally, I completed a Frontend & Security internship at Al Dahra Agriculture, contributing to a secure web dashboard for agricultural data analysis, with an emphasis on security implementation and system hardening.
+Additionally, I completed a Frontend & Security internship at <strong><a href="https://aldahra.com/" target="_blank">Al Dahra Agriculture</a></strong>, contributing to a secure web dashboard for agricultural data analysis, with an emphasis on security implementation and system hardening.
 </p>
 
 
