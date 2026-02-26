@@ -22,6 +22,7 @@ class NavBar extends React.Component {
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#experience">Experience</Nav.Link>
               <Nav.Link href="#projects">Projects</Nav.Link>
+              <Nav.Link href="https://omar-abdelsalam.blogspot.com/" target="_blank">Blog</Nav.Link>
             </Nav>
             <Nav className="ml-auto">
               <Nav.Link href="mailto:owvr.vhmed@gmail.com">
@@ -33,7 +34,7 @@ class NavBar extends React.Component {
               <Nav.Link href="https://www.linkedin.com/in/omar-abdelsalam-29276a341/" target="_blank">
                 <LinkedInIcon style={{ fontSize: 21 }}></LinkedInIcon>
               </Nav.Link>
-              <Nav.Link href={process.env.PUBLIC_URL + "/assets/OmarCv.pdf"} download="OmarCv.pdf">
+              <Nav.Link href={process.env.PUBLIC_URL + "/assets/Omar_Abdelsalam.pdf"} download="Omar_Abdelsalam_CV.pdf">
                 <DescriptionIcon style={{ fontSize: 21 }}></DescriptionIcon>
               </Nav.Link>
               
