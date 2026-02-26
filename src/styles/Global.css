@@ -1,13 +1,13 @@
 :root {
-  --dark-navy: #0d0d0d;           /* Very dark gray */
-  --navy: #1a0d0d;                /* Dark red-brown */
-  --light-navy: #2d1a1a;          /* Red-brown */
-  --lightest-navy: #402626;       /* Light red-brown */
-  --navy-shadow: rgba(13, 13, 13, 0.7);  /* Dark shadow */
-  --slate: #a67c7c;               /* Muted red-brown */
-  --light-slate: #c19999;         /* Light red-brown */
-  --lightest-slate: #e6d6d6;      /* Very light red-brown */
-  --white: #f9f5f5;               /* Off-white with red tint */
-  --green-bright: #e74c3c;        /* Elegant red */
-  --green-tint: rgba(231, 76, 60, 0.1);  /* Elegant red tint */
+  --dark-navy: #fdfaf0;           /* Main background color */
+  --navy: #e8e2d5;                /* Darker shade */
+  --light-navy: #f5f0e6;          /* Light shade */
+  --lightest-navy: #faf8f3;       /* Lightest shade */
+  --navy-shadow: rgba(253, 250, 240, 0.7);  /* Shadow color */
+  --slate: #666666;               /* Text gray */
+  --light-slate: #888888;         /* Lighter text gray */
+  --lightest-slate: #aaaaaa;      /* Lightest text gray */
+  --white: #333333;               /* Dark text for contrast */
+  --green-bright: #d4a574;        /* Warm accent color */
+  --green-tint: rgba(212, 165, 116, 0.1);  /* Warm accent tint */
 }
